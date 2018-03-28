@@ -1,0 +1,15 @@
+70468090e72e4d8c6f6d61c913b49186 *DESCRIPTION
+20ebe496fcf75c82d54d4a226647bfe8 *NAMESPACE
+f2cc65a997db31b88cef0f8edf77985d *NEWS.md
+ee9d02659d23ccef56cf7c9e13b1fa05 *R/GreenplumConnection.R
+75c1a3c1117545e0d3ee42d0157cda02 *R/GreenplumDriver.R
+dabb318633d602cccb70eca15bbcbb69 *R/table-create.R
+c967072109f43cc0a816a0937cc0a516 *R/tables.R
+a06a0eced6ca61b1964a4724402ea9b6 *README.md
+c0ae19c5373616b3836bf5e0282b5058 *man/Greenplum.Rd
+8002391f64648339b9e5eddd7835db9a *man/GreenplumConnection-class.Rd
+de0dab13e32ef9b3705d35b65539f8d4 *man/GreenplumDriver-class.Rd
+bbbc8488fddae05c23dc5b63e200850e *man/GreenplumResult-class.Rd
+ac1447a0a8499a3e379b7368e861f97c *man/dbConnect-GreenplumDriver-method.Rd
+ae9fedb44df58b10af85a12bf7e2555a *man/greenplum-tables.Rd
+6a6468d4dc7661854046c2b667678e60 *man/hidden_aliases.Rd
