@@ -1,6 +1,6 @@
 Package: RGreenplum
 Title: Interface to 'Greenplum' Database
-Version: 0.1.0
+Version: 0.1.2
 Authors@R: c(person("Michael", "Williams", role = c("aut", "cre"), 
   email = "mw8765999@gmail.com"))
 Description: 
@@ -19,8 +19,8 @@ RoxygenNote: 6.0.1
 Collate: 'GreenplumDriver.R' 'GreenplumConnection.R' 'table-create.R'
         'tables.R'
 NeedsCompilation: no
-Packaged: 2018-03-27 14:04:24 UTC; michael
+Packaged: 2018-06-24 11:33:37 UTC; michael
 Author: Michael Williams [aut, cre]
 Maintainer: Michael Williams <mw8765999@gmail.com>
 Repository: CRAN
-Date/Publication: 2018-03-28 08:05:52 UTC
+Date/Publication: 2018-06-24 11:44:18 UTC
